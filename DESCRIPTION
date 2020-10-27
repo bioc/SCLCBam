@@ -1,7 +1,7 @@
 Package: SCLCBam
 Type: Package
 Title: Sequence data from chromosome 4 of a small-cell lung tumor
-Version: 1.22.0
+Version: 1.23.0
 Date: 2015-02-18
 Author: Thomas Kuilman
 Maintainer: Oscar Krijgsman <o.krijgsman@nki.nl>
